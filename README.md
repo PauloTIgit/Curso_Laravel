@@ -1,10 +1,15 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
 ## Curso Laravel
+
+# Oque foi feito 06/09/22
+Foi Criado 3 Rotas para 3 Controllers 
+Principal , SobreNos e Contato
+Logo foi criado 3 views
+# Principal
+    Pagina Principal
+
+# SobreNos
+    Pagina de sobre onde vai ficar as informações do que se trata a pagina em sí.
+
+# Contato
+    Pagina onde ira ficar os meios de contato.
+
